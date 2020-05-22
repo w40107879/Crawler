@@ -6,6 +6,6 @@ https://www.cwb.gov.tw/V8/C/W/week.html
 並儲存到DB
 
 爬蟲使用python
-讀檔、格式修改、存入DB則使用php
+而讀檔、格式修改、存入DB則使用php
 
-爬蟲是使用selenium來自動啟動PhantomJS渲染頁面，這樣才取得到HTML
+並使用selenium來自動啟動PhantomJS渲染頁面，這樣才取得到HTML
